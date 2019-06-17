@@ -28,3 +28,6 @@ let g:airline_theme='onedark'
 " line numbers
 set number
 
+" ignore case sensitive when using autocomplete
+set ignorecase
+set infercase
