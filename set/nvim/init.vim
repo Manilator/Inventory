@@ -6,6 +6,8 @@ Plug 'sheerun/vim-polyglot'
 Plug 'itchyny/lightline.vim'
 Plug 'ericbn/vim-relativize'
 Plug 'joshdick/onedark.vim'
+Plug 'jiangmiao/auto-pairs'
+Plug 'junegunn/goyo.vim'
 call plug#end()
 
 " make path recursive
@@ -31,3 +33,10 @@ set number
 " ignore case sensitive when using autocomplete
 set ignorecase
 set infercase
+
+" LaTeX
+autocmd BufEnter *.tex set linebreak
+autocmd FileType tex map <Space>r :silent !pdflatex  --shell-escape %:p > /dev/null &<Return>
+autocmd BufEnter *.tex command! Re !pdflatex --shell-escape %:p
+
+
