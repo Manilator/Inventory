@@ -8,6 +8,7 @@ Plug 'ericbn/vim-relativize'
 Plug 'joshdick/onedark.vim'
 Plug 'jiangmiao/auto-pairs'
 Plug 'junegunn/goyo.vim'
+Plug 'JamshedVesuna/vim-markdown-preview'
 call plug#end()
 
 " make path recursive
@@ -16,8 +17,15 @@ set path=**
 " start deoplete (autocomplete)
 let g:deoplete#enable_at_startup = 1
 
+" markdown options
+let vim_markdown_preview_browser='firefox'
+let vim_markdown_preview_github=1
+
 " keybind to open file tree
 nmap <F2> :NERDTreeToggle<CR>
+
+" keybind to auto ident file
+map <F7> gg=G<C-o><C-o>
 
 " ident options
 set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
