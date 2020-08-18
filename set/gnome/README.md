@@ -15,3 +15,6 @@
 # Fonts 
 * Iosevka
 * Fira code
+
+# Configs
+* [Terminal](https://github.com/Manilator/Inventory/blob/master/set/gnome/Manilator-profile.dconf)
