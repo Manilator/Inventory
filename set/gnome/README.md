@@ -1,9 +1,13 @@
 # Extensions
 * Dash to Dock
 * Transparent Top Bar 
+* Unite
 
 # Theme
-* Orchis gtk theme
+* Material-Black-Blueberry-3.36
+
+# Icons
+* Material-Black-Blueberry-Numix-FLAT
 
 # Applications
 * Gnome Tweaks
@@ -11,10 +15,8 @@
 # General Changes
 * Change windows layot to Tile windows
 * Add windows tilebar buttons with gnome tweaks
+* Unite theme - Vimix
 
 # Fonts 
 * Iosevka
 * Fira code
-
-# Configs
-* [Terminal](https://github.com/Manilator/Inventory/blob/master/set/gnome/Manilator-profile.dconf)
