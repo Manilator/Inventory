@@ -1,0 +1,9 @@
+[/]
+background-transparency-percent=17
+bold-color-same-as-fg=true
+font='Iosevka 16'
+palette=['rgb(34,34,34)', 'rgb(168,29,29)', 'rgb(9,173,77)', 'rgb(186,110,20)', 'rgb(20,142,186)', 'rgb(217,192,63)', 'rgb(156,17,182)', 'rgb(217,217,217)', 'rgb(68,68,68)', 'rgb(231,39,39)', 'rgb(11,217,97)', 'rgb(232,138,27)', 'rgb(25,178,233)', 'rgb(253,224,75)', 'rgb(214,20,250)', 'rgb(255,255,255)']
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Manilator'
