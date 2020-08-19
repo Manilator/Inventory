@@ -2,6 +2,9 @@
 
 Most of my config files
 
+## Screenshot
+![](https://raw.githubusercontent.com/Manilator/Inventory/master/appearance/inventory.png)
+
 ![](https://raw.githubusercontent.com/Manilator/Inventory/master/appearance/set.png)
 
 - [Neovim](https://github.com/Manilator/Inventory/tree/master/set/nvim)
