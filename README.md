@@ -3,7 +3,7 @@
 Most of my config files
 
 ## Screenshot
-![](https://raw.githubusercontent.com/Manilator/Inventory/master/appearance/inventory.png)
+![](https://github.com/Manilator/Inventory/blob/master/appearance/screenshot_popos.png)
 
 ![](https://raw.githubusercontent.com/Manilator/Inventory/master/appearance/set.png)
 
