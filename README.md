@@ -9,5 +9,4 @@ Most of my config files
 
 - [i3](https://github.com/Manilator/Inventory/tree/master/set/i3)
 - [compton](https://github.com/Manilator/Inventory/tree/master/set/compton)
-- [Rofi](https://github.com/Manilator/Inventory/tree/master/set/rofi)
 
