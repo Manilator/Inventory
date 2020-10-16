@@ -7,6 +7,5 @@ Most of my config files
 
 ![](https://raw.githubusercontent.com/Manilator/Inventory/master/appearance/set.png)
 
-- [i3](https://github.com/Manilator/Inventory/tree/master/set/i3)
 
 
